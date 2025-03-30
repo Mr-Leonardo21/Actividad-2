@@ -1,0 +1,71 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "objectid": 1,
+          "nombre_estacion": "Alcalá",
+          "coordenada_x_estacion": -3.70379,
+          "coordenada_y_estacion": 40.41678
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-3.70379, 40.41678]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "objectid": 2,
+          "nombre_estacion": "Sol",
+          "coordenada_x_estacion": -3.70256,
+          "coordenada_y_estacion": 40.41694
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-3.70256, 40.41694]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "objectid": 3,
+          "nombre_estacion": "Gran Vía",
+          "coordenada_x_estacion": -3.70624,
+          "coordenada_y_estacion": 40.42030
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-3.70624, 40.42030]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "objectid": 4,
+          "nombre_estacion": "Plaza de España",
+          "coordenada_x_estacion": -3.71214,
+          "coordenada_y_estacion": 40.42354
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-3.71214, 40.42354]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "objectid": 5,
+          "nombre_estacion": "Portal Norte",
+          "coordenada_x_estacion": -3.71740,
+          "coordenada_y_estacion": 40.42801
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [-3.71740, 40.42801]
+        }
+      }
+    ]
+  }
+  
